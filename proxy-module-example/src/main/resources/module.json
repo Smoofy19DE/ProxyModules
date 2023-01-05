@@ -1,0 +1,6 @@
+{
+  "name": "ExampleModule",
+  "version": "1.0-SNAPSHOT",
+  "author": "Smoofy",
+  "main": "de.smoofy.proxy.module.example.ExampleModule"
+}
